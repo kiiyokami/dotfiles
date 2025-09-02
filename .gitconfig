@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
+[user]
+	email = 85468568+kiiyokami@users.noreply.github.com
+	name = Kiiyo
