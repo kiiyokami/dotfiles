@@ -1,6 +1,4 @@
-# DOTFILES
-
-## About
+# Kiiyo's Dotfiles Config
 
 This is my personal dotfiles repository for my Linux configuration.
 
